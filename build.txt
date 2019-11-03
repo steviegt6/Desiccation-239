@@ -1,0 +1,6 @@
+author = Weirdhat, GoodPro712, Nobody & Lemmy
+version = 0.0.239
+displayName = Desiccation
+hideCode = false
+hideResources = true
+includePDB = true
